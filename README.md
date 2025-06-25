@@ -33,15 +33,21 @@ o	Repository Link <insert repository>
 
 
 Education
-•	SOUTHERN NEW HAMPSHIRE UNIVERSITY
-o	STEM MBA
+
+•	SOUTHERN NEW HAMPSHIRE UNIVERSITY: STEM MBA
 o	Granduation: Aug 2025
+
 Certifications
+
 •	[Certification Name] - [Issuing Organization]
+
 •	[Certification Name] - [Issuing Organization]
+
 Contact Me
+
 •	Email: eshezron@gmail.com
-•	LinkedIn: Your LinkedIn Profile
+
+•	LinkedIn: https://www.linkedin.com/in/hezronrugalema/
 
 ________________________________________
 
