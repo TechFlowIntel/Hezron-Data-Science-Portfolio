@@ -7,10 +7,15 @@ I am a STEM MBA student at Southern New Hampshire University, with a deep passio
 I thrive on tackling challenging projects that push me to think critically and creatively while continuously refining my skills. Currently, I am expanding my expertise in machine learning and artificial intelligence, equipping myself with advanced analytical capabilities to solve complex business problems and drive impactful insights.
 
 Skills:
-•	Programming Languages: Python, SQL,
-•	Data Analysis: Pandas, NumPy, Matplotlib, Excel,
+
+•	Programming Languages: Python, SQL
+
+•	Data Analysis: Pandas, NumPy, Matplotlib, Excel
+
 •	Data Visualization: Tableau, Power BI
+
 •	Databases: PostgreSQL
+
 •	Tools: Jupyter Notebook, Git, GitHub, 
 
 
