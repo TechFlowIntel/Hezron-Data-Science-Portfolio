@@ -29,7 +29,7 @@ This analysis aims to clean and explore the U.S. General Services Administration
 o	Technologies Used: Python 
 
 o	Repository Link <insert repository>
-[link to project](FINAL_DRAFT_P1_Key Trends in hiring duration.ipynb)
+[FINAL_DRAFT_P1_Key Trends in hiring duration.ipynb](FINAL_DRAFT_P1_Key Trends in hiring duration.ipynb)
 
 
 Education
