@@ -2,6 +2,7 @@ Hi there! I'm Hezron Rugalema
 Data Analyst | Business Analyst | Financial Analysis
 ________________________________________
 About Me
+
 I am a consultant with a deep passion for data-driven decision-making and business strategy. My journey into the world of data began with an understanding that various forms of business data—financial, market, economic, and more—can inform strategic decisions and uncover hidden patterns.
 
 I thrive on tackling challenging projects that push me to think critically and creatively while continuously refining my skills. Currently, I am expanding my expertise in machine learning and artificial intelligence, equipping myself with advanced analytical capabilities to solve complex business problems and drive impactful insights.
