@@ -37,11 +37,6 @@ Education
 •	SOUTHERN NEW HAMPSHIRE UNIVERSITY: STEM MBA
 o	Granduation: Aug 2025
 
-Certifications
-
-•	[Certification Name] - [Issuing Organization]
-
-•	[Certification Name] - [Issuing Organization]
 
 Contact Me
 
