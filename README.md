@@ -1,6 +1,7 @@
-# Projects
+# Projects 🌟
 ******************************************************************************************************************************************************
 ## 1.	Key Trends in hiring duration
+![image](https://github.com/user-attachments/assets/7402859c-338e-4e7d-b644-a7d46c3454b5)
 
 ### Problem Statement:
 
